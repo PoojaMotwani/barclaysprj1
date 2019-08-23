@@ -12,4 +12,4 @@ def multiply(x, y):
 
 def division(x, y):
 	"""Division function"""
-	return x/y
+	pass
